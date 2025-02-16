@@ -1,14 +1,12 @@
-## Hey 👋
+# Hey 👋
 
 My name is Juan and I'm a Software Engineer, from  Medellín, Colombia!
 
 - 🔭 I’m currently working as DevSecOps Dev
 - 🌱 I’m currently learning Kubernetes
 
-<p align="left">Hello World!!</p>
-
 ###
-## Technologies
+## Technologies 🛠️
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -41,7 +39,7 @@ My name is Juan and I'm a Software Engineer, from  Medellín, Colombia!
 </div>
 
 ###
-## My Stats
+## My Stats 📊
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jcamilomolinar&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=jcamilomolinar&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
